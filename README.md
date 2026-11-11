@@ -1,3 +1,14 @@
+> **CultureReset fork of the upstream project shown under "forked from" at the top of this page.** An editor plugin specification and its official plugins.
+>
+> - **Why it is here:** Saved for reference.
+> - **Does anything run from it:** No.
+> - **Changes:** The default branch has no CultureReset commits; it is upstream as of the last sync.
+> - **License:** see upstream; this fork does not change it. For updates and issues, use the upstream project.
+>
+> The upstream README follows unchanged.
+
+---
+
 # Cursor plugins
 
 Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone directory at the repository root with its own `.cursor-plugin/plugin.json` manifest.
